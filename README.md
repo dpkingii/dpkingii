@@ -4,10 +4,6 @@
   CS @ University of Maryland. I build full-stack and agentic AI software, with a focus on authorization and security.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lianyu-peng"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-</p>
-
 ### About
 
 - Interned at **Visa** (2026), building RBAC and endpoint authorization for an agentic AI workforce planning app in Spring Boot and Angular
@@ -26,4 +22,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,py,ts,spring,angular,react,nextjs,fastapi,flutter,postgres,mongodb,docker" alt="Java, Python, TypeScript, Spring, Angular, React, Next.js, FastAPI, Flutter, PostgreSQL, MongoDB, Docker">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lianyu-peng"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 </p>
