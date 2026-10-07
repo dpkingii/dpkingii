@@ -59,13 +59,13 @@ MutationObserver rescans as single-page menus load new items.
 ### [Professor Rating Predictor](https://github.com/dpkingii/PredictingProfessorRating)
 **Machine learning · Python**
 
-Pulls **4,200+ UMD professors** from the PlanetTerp API and predicts their star rating from
+Pulls **3,000+ UMD professors and 8,000+ reviews** from the PlanetTerp API and predicts their star rating from
 grade distributions, the GPA students expect based on reviews, and VADER sentiment over
 the review text.
 
-> Four models under 10-fold cross-validation. Support vector regression did best at
-> **R² 0.62**, with plain linear regression right behind at 0.61, so most of the signal
-> is linear. Random forest came in last.
+> Linear regression, random forest, and support vector regression were each scored with
+> 10-fold cross-validation on the same held-out split. SVR did best at **R² 0.62**, with
+> plain linear regression right behind at 0.61, so most of the signal is linear.
 
 ![Python](https://img.shields.io/badge/Python-8C1B2B?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1C1B18?style=flat-square&logo=scikitlearn&logoColor=white)
