@@ -25,7 +25,7 @@ I'm studying CS at **UMD** (May 2028) and I'm **open to Summer 2027 internships 
 roles**. I also run education for the **App Development Club at UMD**, teaching React,
 FastAPI, and Postgres to 45 students a semester.
 
-Outside of code I go by **Nick**. I love to talk, I'll go a long way for a good bowl of
+Outside of code I go by **Nick**. I love hearing people's stories, I'll go a long way for a good bowl of
 Asian noodles, and I like staring up at the night sky. I find joy in making daily tasks a
 little more efficient, which is how most of my side projects start.
 
