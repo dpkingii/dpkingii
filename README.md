@@ -2,8 +2,6 @@
 
 <img width="100%" alt="Lianyu Peng, Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1B18,55:8C1B2B,100:E21833&height=200&section=header&text=Lianyu%20Peng&fontSize=60&fontColor=F5F2EC&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descSize=18&descAlignY=57">
 
-<p><b>Full-stack and agentic AI software</b></p>
-
 <p>
   <img alt="Visa SWE Intern, Summer 2026" src="https://img.shields.io/badge/Visa-SWE_Intern_·_Summer_2026-1A1F71?style=for-the-badge&logo=visa&logoColor=white">
   <img alt="UMD Computer Science, May 2028" src="https://img.shields.io/badge/UMD-Computer_Science_·_May_2028-1C1B18?style=for-the-badge">
