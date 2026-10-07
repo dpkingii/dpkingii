@@ -2,10 +2,7 @@
 
 <img width="100%" alt="Lianyu Peng, Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1B18,55:8C1B2B,100:E21833&height=200&section=header&text=Lianyu%20Peng&fontSize=60&fontColor=F5F2EC&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descSize=18&descAlignY=57">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1200&color=FF6B7D&center=true&vCenter=true&width=700&height=44&lines=Full-stack+and+agentic+AI+software%2C+focused+on+security;SWE+intern+at+Visa%2C+summer+2026;CS+at+UMD%2C+graduating+May+2028;Open+to+Summer+2027+internships+and+new-grad+roles">
-  <img alt="Full-stack and agentic AI software, focused on security. SWE intern at Visa, summer 2026. CS at UMD, graduating May 2028. Open to Summer 2027 internships and new-grad roles." src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1200&color=8C1B2B&center=true&vCenter=true&width=700&height=44&lines=Full-stack+and+agentic+AI+software%2C+focused+on+security;SWE+intern+at+Visa%2C+summer+2026;CS+at+UMD%2C+graduating+May+2028;Open+to+Summer+2027+internships+and+new-grad+roles">
-</picture>
+<p><b>Full-stack and agentic AI software</b></p>
 
 <p>
   <img alt="Visa SWE Intern, Summer 2026" src="https://img.shields.io/badge/Visa-SWE_Intern_·_Summer_2026-1A1F71?style=for-the-badge&logo=visa&logoColor=white">
