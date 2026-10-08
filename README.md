@@ -109,7 +109,7 @@ and a React cookie clicker built up from components, state, and upgrades.
 
 I'm looking for **Summer 2027 software engineering internships and new-grad roles**. LinkedIn
 is the best way to reach me, and my site at [dpkingii.github.io](https://dpkingii.github.io)
-has more on my projects. Resume on request.
+has more on my projects.
 
 <p align="center">
   <a href="https://dpkingii.github.io"><img src="https://img.shields.io/badge/Website-dpkingii.github.io-8C1B2B?style=for-the-badge" alt="Website"></a>
