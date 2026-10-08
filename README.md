@@ -75,23 +75,7 @@ the review text.
 </tr>
 <tr><td colspan="2"></td></tr>
 <tr>
-<td width="50%" valign="top">
-
-### [Appaca](https://github.com/dpkingii/Appaca)
-**Full-stack hackathon app · TypeScript + Python**
-
-Matches App Development Club mentors with students, with a React and TypeScript front end
-and a FastAPI and MongoDB backend. Built by a team of six at the ADC bootcamp hackathon.
-
-> My part was the login page and **Two Truths and a Bug**, an icebreaker where a mentor
-> writes three statements, marks one as the bug, and students try to guess which it is.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-8C1B2B?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1C1B18?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-E21833?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### [Teaching](https://github.com/dpkingii/bootcamp-lecture-code)
 **App Development Club bootcamp**
@@ -124,8 +108,10 @@ and a React cookie clicker built up from components, state, and upgrades.
 ## Get in touch
 
 I'm looking for **Summer 2027 software engineering internships and new-grad roles**. LinkedIn
-is the best way to reach me. Resume on request.
+is the best way to reach me, and my site at [dpkingii.github.io](https://dpkingii.github.io)
+has more on my projects. Resume on request.
 
 <p align="center">
+  <a href="https://dpkingii.github.io"><img src="https://img.shields.io/badge/Website-dpkingii.github.io-8C1B2B?style=for-the-badge" alt="Website"></a>
   <a href="https://www.linkedin.com/in/lianyu-peng"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 </p>
